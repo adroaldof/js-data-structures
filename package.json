@@ -1,0 +1,42 @@
+{
+  "name": "js-data-structures",
+  "version": "0.0.1",
+  "description": "JavaScript Data Structures review",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adroaldof/js-data-structures.git"
+  },
+  "keywords": [
+    "Data Structures",
+    "JS Data Structures"
+  ],
+  "author": "Adroaldo de Andrade <adroaldof@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adroaldof/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/adroaldof/js-data-structures#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-coverage": "^0.3.38",
+    "gulp-istanbul": "^1.1.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-mocha": "^3.0.1",
+    "gulp-util": "^3.0.7",
+    "isparta": "^4.0.0",
+    "istanbul": "^0.4.4",
+    "jscs-stylish": "^0.3.1",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.1",
+    "mocha": "^3.0.2",
+    "run-sequence": "^1.2.2",
+    "sinon": "^1.17.5"
+  }
+}
